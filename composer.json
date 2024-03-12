@@ -1,0 +1,19 @@
+{
+    "name": "nymul/adminify",
+    "description": "This plugin is for admin information customization.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Adminify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nymul Islam Moon",
+            "email": "towkir1997islam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
