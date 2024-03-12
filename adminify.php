@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:         Adminify
- * Plugin URI:          https://github.com/nymul-islam-moon
+ * Plugin URI:          https://github.com/nymul-islam-moon/Adminify
  * Description:         Description of the plugin.
  * Version:             1.0.0
  * Requires at least:   5.2
@@ -19,7 +19,7 @@
  * Text Domain:         Adminify
  * License:             GPL v2 or later
  * License URI:         http://www.gnu.org/licenses/gpl-2.0.txt
- * Update URI:          https://example.com/my-plugin/
+ * Update URI:          https://github.com/nymul-islam-moon/Adminify
  */
 
 /**
